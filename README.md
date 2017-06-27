@@ -1,5 +1,5 @@
 # rse-rss
-The Resilient Spacecraft Executive implementation for the [Resilient Space Systems][rss] project (Caltech + NASA JPL + MIT + WHOI)
+The revised (ver. 3) Resilient Spacecraft Executive implementation for the [Resilient Space Systems][rss] project (Caltech + NASA JPL + MIT + WHOI)
 
 [rss]: http://www.kiss.caltech.edu/study/systems/Techupdate.html
 
